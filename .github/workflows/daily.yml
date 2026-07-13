@@ -1,0 +1,39 @@
+name: Daily Beauty Industry Radar
+
+on:
+  schedule:
+    # UTC 22:00 = 北京/首尔时间次日 06:00,东京时间次日 07:00
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}   # 允许手动在 Actions 页面点一下立即运行,方便测试
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Build report page
+        run: python build_report.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "beauty-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          git diff --quiet --cached || git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+          git push
