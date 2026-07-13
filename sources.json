@@ -1,0 +1,53 @@
+{
+  "sources": [
+    {
+      "id": "shukan_syogyo",
+      "name": "週刊粧業(日本粧業)",
+      "region": "日本",
+      "listing_url": "https://www.syogyo.jp/news/",
+      "rss_candidates": ["https://www.syogyo.jp/feed", "https://www.syogyo.jp/rss"]
+    },
+    {
+      "id": "cosmetics_in_japan",
+      "name": "Cosmetics in Japan (英文)",
+      "region": "日本",
+      "listing_url": "https://foreign.syogyo.jp/",
+      "rss_candidates": []
+    },
+    {
+      "id": "korea_beauty_magazine",
+      "name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "listing_url": "https://koreabeautymagazine.com/",
+      "rss_candidates": ["https://koreabeautymagazine.com/feed"]
+    },
+    {
+      "id": "beautynury",
+      "name": "BeautyNury(뷰티누리)",
+      "region": "韩国",
+      "listing_url": "https://www.beautynury.com/news/articleList.html",
+      "rss_candidates": ["https://www.beautynury.com/rss/allArticle.xml"]
+    },
+    {
+      "id": "cmn",
+      "name": "CMN(Cosmetic Mania News)",
+      "region": "韩国",
+      "listing_url": "https://www.cmn.co.kr/news/articleList.html",
+      "rss_candidates": ["https://www.cmn.co.kr/rss/allArticle.xml"]
+    },
+    {
+      "id": "cosmetics_design_asia",
+      "name": "Cosmetics Design Asia",
+      "region": "亚洲",
+      "listing_url": "https://www.cosmeticsdesign-asia.com/",
+      "rss_candidates": ["https://www.cosmeticsdesign-asia.com/Info/CosmeticsDesign-Asia-RSS"]
+    }
+  ],
+  "keyword_tags": {
+    "新品": ["新品", "新商品", "新発売", "発売", "新製品", "출시", "신제품", "launch", "new product"],
+    "成分": ["成分", "原料", "PDRN", "Exosome", "エクソソーム", "엑소좀", "Bakuchiol", "Peptide", "펩타이드", "ingredient"],
+    "技术": ["技術", "기술", "LED", "RF", "EMS", "Microcurrent", "AI Skin", "美容機器", "美容仪", "technology"],
+    "品牌动态": ["資生堂", "花王", "POLA", "KOSE", "Amorepacific", "LG H&H", "APR", "Medicube", "브랜드", "品牌"],
+    "消费趋势": ["トレンド", "트렌드", "消費者", "소비자", "trend", "趋势", "市場動向", "市場規模"]
+  }
+}
