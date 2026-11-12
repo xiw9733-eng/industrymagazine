@@ -1,7 +1,296 @@
 {
-  "generated_at": "2026-11-11T01:33:19.253760+00:00",
-  "date": "2026-11-11",
-  "new_items": [],
+  "generated_at": "2026-11-12T02:34:31.958141+00:00",
+  "date": "2026-11-12",
+  "new_items": [
+    {
+      "id": "c4ae7258b3dc96d3",
+      "title": "Aesthetic Clinic in Seoul:One Facial Zone at a Time",
+      "url": "https://koreabeautymagazine.com/aesthetic-clinic-seoul/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "7d7f9eb312c2efb6",
+      "title": "Best Dermatology Clinics in Seoulat the First Consultation",
+      "url": "https://koreabeautymagazine.com/best-dermatology-clinics-in-seoul/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "8b7f431f4ecc0037",
+      "title": "Dermatology Clinic Pricesin Seoul (2026), Visit After Visit",
+      "url": "https://koreabeautymagazine.com/dermatology-clinic-prices-in-seoul/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "8395e3bd5afd32a9",
+      "title": "1. Springday Clinic Sinchon",
+      "url": "https://sch.springdayclinic.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "7762c81b45c73a9f",
+      "title": "2. RE:BERRY Clinic Gangnam",
+      "url": "https://gangnamskinclinicreberry.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "3207956332276355",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/a78961/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "b9980941e9c32185",
+      "title": "3. Barog Clinic Seomyeon Station Branch",
+      "url": "https://busan-skin-clinic.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "776d8a1a56b76fd1",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/32443e/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "56fc4feba25c0c48",
+      "title": "4. Dear Clinic",
+      "url": "https://dearchungdam.com/en/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "b7ae3e462df980f5",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/8990d2/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "02d6491444dd6838",
+      "title": "5. Kind Global Clinic",
+      "url": "https://myeongdong-skinclinic.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "23003f8db3d93f13",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/1e0cbb/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "87431fc44a3f6e23",
+      "title": "6. Summit Clinic",
+      "url": "https://summitclinic.co.kr/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "ea93c392eb65b541",
+      "title": "7. Rewind Plastic Surgery",
+      "url": "https://rewindps.co.kr/en/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "ca6d2ebe7e06a4eb",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/06e267/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "e69c8ab84ac6ce53",
+      "title": "8. Pixelab Beauty Clinic",
+      "url": "https://gangnam-skin-clinic.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "acb2bfb39593c828",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/7db1c9/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "1d5fc8bdedad319e",
+      "title": "9. Cellon Dermatology Clinic (Cheongdam)",
+      "url": "https://cellonclinic.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "7be05ab4970cf5aa",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/d01ee1/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "0c8b8f13dd3ec90d",
+      "title": "10. ENTER Plastic Surgery",
+      "url": "https://gangnam-face-lift.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "3eaadf8f2b795b5c",
+      "title": "WhatsApp",
+      "url": "https://koreabeautymagazine.com/c/7df63e/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "7fad382e9cb1e586",
+      "title": "By areaPlanning Aesthetic clinics in Gangnam",
+      "url": "https://gangnamdermacenter.com/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "4a6b2fdd11841c63",
+      "title": "By areaSeoul clinics for Aesthetic clinics",
+      "url": "https://seoulbeautyjournal.com/best-dermatology-clinics-in-seoul/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "5e7775601d9bdd04",
+      "title": "By areaAesthetic clinics prices across Incheon Airport",
+      "url": "https://incheonairportdermatology.com/dermatology-clinic-prices-in-seoul/",
+      "tags": [
+        "其他"
+      ],
+      "source_id": "korea_beauty_magazine",
+      "source_name": "Korea Beauty Magazine",
+      "region": "韩国",
+      "first_seen": "2026-11-12"
+    }
+  ],
   "run_log": [
     {
       "source": "週刊粧業(日本粧業)",
@@ -20,8 +309,8 @@
     {
       "source": "Korea Beauty Magazine",
       "method": "html_scrape",
-      "fetched": 15,
-      "new": 0,
+      "fetched": 25,
+      "new": 24,
       "error": null
     },
     {
