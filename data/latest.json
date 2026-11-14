@@ -1,140 +1,7 @@
 {
-  "generated_at": "2026-11-13T02:13:32.636000+00:00",
-  "date": "2026-11-13",
-  "new_items": [
-    {
-      "id": "59556c340ab4bcb6",
-      "title": "Scar Laser at the Best Skin Clinicin Gangnam",
-      "url": "https://koreabeautymagazine.com/best-skin-clinic-in-gangnam/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "306eea9d29ab666a",
-      "title": "Neck Work at the Best Skin Clinicin Myeongdong",
-      "url": "https://koreabeautymagazine.com/best-skin-clinic-in-myeongdong/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "31e3f40c70fa0a1a",
-      "title": "Best Skin Clinic in Seoul for ForeignersSkin First",
-      "url": "https://koreabeautymagazine.com/best-skin-clinic-in-seoul-for-foreigners/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "37d404ba8cd59cf8",
-      "title": "English-Speaking Dermatology Clinicsin Seoul: Safety",
-      "url": "https://koreabeautymagazine.com/english-speaking-dermatology-clinics-in-seoul/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "d70b9bcb29b7fbbd",
-      "title": "Beyond the Room:English-Speaking Skin Clinic in Seoul",
-      "url": "https://koreabeautymagazine.com/english-speaking-skin-clinic-seoul/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "f5509eb5c739545e",
-      "title": "Gangnam Dermatology ClinicCombination Days in Order",
-      "url": "https://koreabeautymagazine.com/gangnam-dermatology-clinic/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "ef468fc79706bade",
-      "title": "Gangnam Skin ClinicForehead RF, Signed and Understood",
-      "url": "https://koreabeautymagazine.com/gangnam-skin-clinic/",
-      "tags": [
-        "技术"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "a4106fff9763ae03",
-      "title": "Slow-Build Injectables at aHongdae Skin Clinic",
-      "url": "https://koreabeautymagazine.com/hongdae-skin-clinic/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "3fc32e232bca9be2",
-      "title": "Myeongdong Skin Clinic TripsWith Friends: Each Decides",
-      "url": "https://koreabeautymagazine.com/myeongdong-skin-clinic/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "591579d00a20b24e",
-      "title": "Seoul Skin Clinic for ForeignersUnder Korean Rules",
-      "url": "https://koreabeautymagazine.com/seoul-skin-clinic-for-foreigners/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "a62097888c744b91",
-      "title": "RE:BERRY Clinic Myeongdong",
-      "url": "https://myeongdongskinclinicreberry.com/",
-      "tags": [
-        "其他"
-      ],
-      "source_id": "korea_beauty_magazine",
-      "source_name": "Korea Beauty Magazine",
-      "region": "韩国",
-      "first_seen": "2026-11-13"
-    }
-  ],
+  "generated_at": "2026-11-14T01:53:32.441643+00:00",
+  "date": "2026-11-14",
+  "new_items": [],
   "run_log": [
     {
       "source": "週刊粧業(日本粧業)",
@@ -154,7 +21,7 @@
       "source": "Korea Beauty Magazine",
       "method": "html_scrape",
       "fetched": 25,
-      "new": 11,
+      "new": 0,
       "error": null
     },
     {
